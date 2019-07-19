@@ -5,7 +5,7 @@ that help users to search the index of a specific website, specific file type an
 Google Dorks can uncover some incredible information such as email addresses and lists, login credentials, sensitive files,
 website vulnerabilities, and even financial information (e.g. payment card data).
 
-# And Here goes the list
+# And here goes the list
 
     ## 7,000 Dorks for hacking into various sites ##
      

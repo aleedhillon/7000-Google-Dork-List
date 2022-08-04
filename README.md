@@ -5,4 +5,4 @@ that help users to search the index of a specific website, specific file type an
 Google Dorks can uncover some incredible information such as email addresses and lists, login credentials, sensitive files,
 website vulnerabilities, and even financial information (e.g. payment card data).
 
-Complete list is in the .txt file.
+# Complete list is in the .txt file.
